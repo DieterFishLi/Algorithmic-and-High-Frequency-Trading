@@ -1,4 +1,6 @@
-# optimal-execution
+# Algorithmic and High-Frequency Trading
+## Mainly optimal execution strategies
+
 
 Reproduce the result from the book 'Algorithmic and High-Frequency Trading' written by Álvaro Cartea, Sebastian Jaimungal, and José Penalva.
 
