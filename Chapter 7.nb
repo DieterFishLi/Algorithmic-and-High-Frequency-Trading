@@ -1,0 +1,64 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1739,         56]
+NotebookOptionsPosition[      1163,         38]
+NotebookOutlinePosition[      1568,         54]
+CellTagsIndexPosition[      1525,         51]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["7 Optimal Execution with Continuous Trading II", "Chapter",
+ CellChangeTimes->{{3.8236562263740196`*^9, 
+  3.8236562409841003`*^9}},ExpressionUUID->"1245a78f-16d2-423f-bc44-\
+947e8a52123a"],
+
+Cell["7.2 Optimal Acquisition with a Price Limiter", "Section",
+ CellChangeTimes->{{3.8236563507764993`*^9, 
+  3.823656363880253*^9}},ExpressionUUID->"fc61f593-4034-4968-a510-\
+4e345af681fc"],
+
+Cell["7.3 Incorporating Order Flow", "Section",
+ CellChangeTimes->{{3.823659651593273*^9, 
+  3.8236596662382526`*^9}},ExpressionUUID->"b0b3b84f-17fe-446e-8954-\
+5c719fea6e9e"]
+}, Open  ]]
+},
+WindowSize->{960, 478},
+WindowMargins->{{Automatic, -5.5}, {-5.5, Automatic}},
+FrontEndVersion->"12.2 for Microsoft Windows (64-bit) (December 7, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"4ab3eaa4-c5c2-4809-a6ef-7074ff942fc1"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 195, 3, 69, "Chapter",ExpressionUUID->"1245a78f-16d2-423f-bc44-947e8a52123a"],
+Cell[778, 27, 191, 3, 67, "Section",ExpressionUUID->"fc61f593-4034-4968-a510-4e345af681fc"],
+Cell[972, 32, 175, 3, 53, "Section",ExpressionUUID->"b0b3b84f-17fe-446e-8954-5c719fea6e9e"]
+}, Open  ]]
+}
+]
+*)
+
